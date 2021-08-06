@@ -1,0 +1,151 @@
+{
+  "products": [
+    {
+      "id": "42032444411411014022304",
+      "name": "Handmade ",
+      "price": "12345677",
+      "status": "1",
+      "cate_id": "0343023420413221110341"
+    },
+    {
+      "id": "0024204414230033344211212",
+      "name": "dvr b",
+      "price": "4",
+      "status": "0",
+      "cate_id": "0343023420413221110341"
+    },
+    {
+      "id": "03011411124112430431104",
+      "name": "2",
+      "price": "12344",
+      "status": "0",
+      "cate_id": "330312413200344003042"
+    },
+    {
+      "id": "43413021012201040324423",
+      "name": "srm",
+      "price": "12345",
+      "status": "0",
+      "cate_id": "330312413200344003042"
+    },
+    {
+      "id": "43030402241123422344202",
+      "name": "srmsc",
+      "price": "12367",
+      "status": "0",
+      "cate_id": "22204442203003200303244"
+    },
+    {
+      "id": "22242444203033101040314",
+      "name": "srmsdfgbn ",
+      "price": "2345678",
+      "status": "1",
+      "cate_id": "22204442203003200303244"
+    }
+  ],
+  "categories": [
+    {
+      "id": "330312413200344003042",
+      "name": "Handmade Steel Bike"
+    },
+    {
+      "id": "0343023420413221110341",
+      "name": "ádfgh"
+    },
+    {
+      "0": {
+        "id": "31004030202223202440313",
+        "name": "thu",
+        "price": "12345",
+        "status": "0"
+      },
+      "1": {
+        "id": "31342100204444140444211",
+        "name": "Handmade Steel Bike",
+        "price": "23",
+        "status": "0"
+      },
+      "2": {
+        "id": "44142223302441343122004",
+        "name": "2",
+        "price": "12345",
+        "status": "0"
+      },
+      "3": {
+        "id": "0020042324314034302220412",
+        "name": "Handmade Steel Bike"
+      },
+      "4": {
+        "id": "44242132423400300220033",
+        "name": "Handmade Steel Bike",
+        "price": "12345",
+        "status": "0"
+      },
+      "5": {
+        "id": "32333403104403112121344",
+        "name": "thu cong",
+        "price": "12345",
+        "status": "0",
+        "cate_id": ""
+      },
+      "6": {
+        "id": "30100300122332233040233",
+        "name": "thu cong",
+        "price": "12345",
+        "status": "0",
+        "cate_id": "330312413200344003042"
+      },
+      "name": "ưerg",
+      "id": "9jxA_Wr"
+    },
+    {
+      "0": {
+        "id": "30100300122332233040233",
+        "name": "thu cong",
+        "price": "12345",
+        "status": "0",
+        "cate_id": "330312413200344003042"
+      },
+      "1": {
+        "id": "42032444411411014022304",
+        "name": "Handmade ",
+        "price": "12345677",
+        "status": "1",
+        "cate_id": "0343023420413221110341"
+      },
+      "2": {
+        "id": "0024204414230033344211212",
+        "name": "dvr b",
+        "price": "4",
+        "status": "0",
+        "cate_id": "0343023420413221110341"
+      },
+      "name": "thu cong",
+      "id": "4mSTii-"
+    },
+    {
+      "id": "22204442203003200303244",
+      "name": "Bike"
+    }
+  ],
+  "users": [
+    {
+      "email": "thupthph08004@fpt.edu.vn",
+      "password": "$2a$10$dumGFLux.shLNN.qL6Gspe9ZQ/O9iQm79LBvMoApfSiwhzH8MeFkC",
+      "username": "thucong",
+      "id": 5
+    },
+    {
+      "email": "thucong@gmail.com",
+      "password": "$2a$10$685QC4qPOEW.ySm.MpF73OgdiA2Kp4DIb10tJW18FWu2dSHiLBjX2",
+      "username": "thucong",
+      "id": 6
+    },
+    {
+      "email": "thupthph@fpt.edu.vn",
+      "password": "$2a$10$14684pjHZcG/OT319j21BeAhuPifGDaF4CyLs/kpnRH7sMGwsdP2G",
+      "username": "tx",
+      "id": 7
+    }
+  ]
+}
